@@ -1,6 +1,6 @@
 # PyFileSystem
 
-A Python-based file system implementation that demonstrates core operating system concepts through a practical, working example. This project provides a low-level implementation of file system operations, block management, and inode-based file tracking.
+A Python-based file system implementation that demonstrates core file system concepts through a practical, working example. This project provides a low-level implementation of file system operations, block management, and inode-based file tracking.
 
 ## 📖 Overview
 
